@@ -128,27 +128,7 @@
     }
   },
   "categories": {
-    "國中": {
-      "國文": {},
-      "數學": {},
-      "英文": {},
-      "自然": {},
-      "社會": {
-        "地理": [
-          {
-            "id": "S01",
-            "title": "認識位置與地圖",
-            "difficulty": "基礎",
-            "content": "<div><font color=\"#16a34a\">1.方位分成:</font></div><div>&nbsp; &nbsp;東(East)/西(West)/南(South)/北(North).</div><div><font color=\"#16a34a\">2.絕對位置:</font></div><div>&nbsp; &nbsp;藉由座標系統,由橫坐標和縱座標來表達位置的所在.</div><div><br></div><div><font color=\"#16a34a\">經線:</font>依照假想的地軸自轉,地軸和地表分別交會於南極和北極兩點.</div><div><table border=\"1\"><tbody><tr><th>度數</th><th>東西經各180度</th><th>劃分</th></tr><tr><td>方向</td><td>南北向</td><td>0度經線(本初經線)以東為東半球,以西為西半球.</td></tr><tr><td>長度</td><td>一樣長</td><td><br></td></tr></tbody></table><br></div><div><br></div><div><font color=\"#16a34a\">緯線:</font>與地軸垂直的平面,赤道為最長的緯線,將地球分成南北半球,由赤道往南極,緯線愈來愈短.</div><div><table border=\"1\"><tbody><tr><th>度數</th><th>南北緯各90度</th><th>劃分</th></tr><tr><td>方向</td><td>東西向</td><td>0度緯線(赤道)以北為北半球,以南為南半球</td></tr><tr><td>長度</td><td>0度緯線(赤道)最長<br>緯度越高,緯線愈短</td><td></td></tr></tbody></table>N:北經</div><div>S:南緯</div><div>E:東經</div><div>W:西經</div><div><br></div><div><br></div><div><div><table border=\"1\" style=\"width: 661px;\"><tbody></tbody></table><br></div></div>",
-            "fileLink": "",
-            "fileName": "",
-            "fileData": ""
-          }
-        ],
-        "歷史": [],
-        "公民": []
-      }
-    },
+    "國中": {},
     "高中": {
       "國文": {},
       "數學": {
