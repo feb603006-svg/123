@@ -286,9 +286,9 @@
           },
           {
             "id": "10/31",
-            "title": "優化同步",
+            "title": "優化同步和新增資料",
             "difficulty": "中等",
-            "content": "解決同步需要鑰匙的問題",
+            "content": "1.解決同步需要鑰匙的問題<div>2.新增高職英文第一課,第二課</div><div>3.新增國小數學折線圖</div>",
             "fileLink": "",
             "fileName": "",
             "fileData": ""
