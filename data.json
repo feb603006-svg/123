@@ -160,7 +160,7 @@
     }
   },
   "siteGuide": {
-    "content": "📌 <b>歡迎使用學習資源與知識點資料庫！</b><br>1.請按下同步最新題庫,確保載入最新資源<div><span style=\"color: rgb(226, 232, 240); font-size: medium; background-color: rgb(15, 23, 42);\">2.請登入帳號,能擁有更多功能使用</span></div>",
+    "content": "📌 <b>歡迎使用學習資源與知識點資料庫！</b><br>1.請按下同步最新題庫,確保載入最新資源<div>2.請登入帳號可以使用更多功能</div>",
     "fileLink": "",
     "fileName": "",
     "fileData": ""
