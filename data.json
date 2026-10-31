@@ -19,37 +19,51 @@
     {
       "id": "math_1",
       "name": "📐 數學初等解題家",
-      "subject": "數學"
+      "subject": "數學",
+      "type": "count",
+      "target": 1
     },
     {
       "id": "elec_1",
       "name": "⚡ 電學初等解題家",
-      "subject": "基本電學"
+      "subject": "基本電學",
+      "type": "count",
+      "target": 1
     },
     {
       "id": "prog_1",
       "name": "💻 程式初等解題家",
-      "subject": "基本程式"
+      "subject": "基本程式",
+      "type": "count",
+      "target": 1
     },
     {
       "id": "eng_1",
       "name": "🔤 英文初等解題家",
-      "subject": "英文"
+      "subject": "英文",
+      "type": "count",
+      "target": 1
     },
     {
       "id": "chi_1",
       "name": "📖 國文初等解題家",
-      "subject": "國文"
+      "subject": "國文",
+      "type": "count",
+      "target": 1
     },
     {
       "id": "sci_1",
       "name": "🔬 自然初等解題家",
-      "subject": "自然"
+      "subject": "自然",
+      "type": "count",
+      "target": 1
     },
     {
       "id": "soc_1",
       "name": "🌍 社會初等解題家",
-      "subject": "社會"
+      "subject": "社會",
+      "type": "count",
+      "target": 1
     }
   ],
   "quizzes": {
@@ -313,50 +327,6 @@
         ]
       }
     },
-    "更新日誌": {
-      "總": {
-        "系統紀錄": [
-          {
-            "id": "10/29",
-            "title": "創立",
-            "difficulty": "基礎",
-            "content": "建立學習資源供大眾學習",
-            "fileName": "",
-            "fileData": ""
-          },
-          {
-            "id": "10/30",
-            "title": "更新和新增功能",
-            "difficulty": "基礎",
-            "content": "新增深色模式,管理員邀請碼,電腦和手機同步優化,獎盃和修復已知問題",
-            "fileLink": "",
-            "fileName": "",
-            "fileData": ""
-          },
-          {
-            "id": "10/31",
-            "title": "優化同步和新增資料",
-            "difficulty": "中等",
-            "content": "1.解決同步需要鑰匙的問題<div>2.新增高職英文第一課,第二課,第三課</div><div>3.新增國小數學折線圖</div><div>4.解決已知問題</div>",
-            "fileLink": "",
-            "fileName": "",
-            "fileData": ""
-          }
-        ]
-      },
-      "團隊": {
-        "成員": [
-          {
-            "id": "1",
-            "title": "創辦人",
-            "difficulty": "基礎",
-            "content": "盧宥杰",
-            "fileName": "",
-            "fileData": ""
-          }
-        ]
-      }
-    },
     "國小": {
       "數學": {
         "五上-折線圖": [
@@ -378,5 +348,11 @@
     "fileLink": "",
     "fileName": "",
     "fileData": ""
+  },
+  "siteChangelog": {
+    "content": "目前尚無更新日誌",
+    "fileName": "",
+    "fileData": "",
+    "fileLink": ""
   }
 }
