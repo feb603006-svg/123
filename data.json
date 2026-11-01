@@ -13,7 +13,12 @@
       "role": "admin",
       "trophies": [],
       "completedQuizzes": [],
-      "notebook": ""
+      "notebook": "",
+      "coins": 10,
+      "coinsTs": 1793542845974,
+      "lastCheckin": "2026-11-01",
+      "checkinStreak": 1,
+      "checkinDays": 1
     }
   },
   "trophiesList": [
@@ -247,5 +252,21 @@
     "fileName": "",
     "fileData": ""
   },
-  "announcements": []
+  "announcements": [],
+  "tasks": [
+    {
+      "id": "task_1793542915990",
+      "title": "完成三角函數5題",
+      "desc": "",
+      "coins": 10,
+      "repeat": "once"
+    }
+  ],
+  "lottery": {
+    "cost": 10,
+    "prizes": []
+  },
+  "economy": {
+    "checkinCoins": 10
+  }
 }
