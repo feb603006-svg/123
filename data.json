@@ -12,7 +12,8 @@
       "pass": "128918",
       "role": "admin",
       "trophies": [],
-      "completedQuizzes": []
+      "completedQuizzes": [],
+      "notebook": ""
     }
   },
   "trophiesList": [
@@ -245,5 +246,6 @@
     "fileName": "",
     "fileData": "",
     "fileLink": ""
-  }
+  },
+  "announcements": []
 }
