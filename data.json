@@ -242,10 +242,10 @@
     "fileData": ""
   },
   "siteChangelog": {
-    "content": "目前尚無更新日誌",
+    "content": "10/29測試版<div>10/30優化同步</div><div>10/31解決無法同步問題</div><div>11/1新增日曆/筆記本/更改介面顯示</div>",
+    "fileLink": "",
     "fileName": "",
-    "fileData": "",
-    "fileLink": ""
+    "fileData": ""
   },
   "announcements": []
 }
