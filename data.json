@@ -17091,9 +17091,391 @@
         "id": "u_mw1wvnij2ko3",
         "name": "英文:The Early Bird Catches the Clock第四課單字",
         "questions": []
+      },
+      {
+        "id": "u_mw1wy1krn71h",
+        "name": "英文：第四課單字(簡單)",
+        "questions": [
+          {
+            "id": "q_mw1wy1kr872v",
+            "text": "「早起」的英文片語是哪一個？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "wake up"
+              },
+              {
+                "letter": "B",
+                "text": "get out of"
+              },
+              {
+                "letter": "C",
+                "text": "go off"
+              },
+              {
+                "letter": "D",
+                "text": "take action"
+              }
+            ],
+            "answer": "A",
+            "explanation": "wake up：醒來、起床。例句：We need to wake up early in the morning.",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1kr8c2l",
+            "text": "「採取行動」的英文片語是哪一個？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "in advance"
+              },
+              {
+                "letter": "B",
+                "text": "take action"
+              },
+              {
+                "letter": "C",
+                "text": "on time"
+              },
+              {
+                "letter": "D",
+                "text": "in order to"
+              }
+            ],
+            "answer": "B",
+            "explanation": "take action：採取行動。例句：The firefighters took action right away.",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krvigc",
+            "text": "「離開、走出」的英文片語是哪一個？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "go off"
+              },
+              {
+                "letter": "B",
+                "text": "wake up"
+              },
+              {
+                "letter": "C",
+                "text": "get out of"
+              },
+              {
+                "letter": "D",
+                "text": "take action"
+              }
+            ],
+            "answer": "C",
+            "explanation": "get out of：離開、走出。例句：My family is going to get out of town.",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1kronti",
+            "text": "「準時」的英文片語是哪一個？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "in order to"
+              },
+              {
+                "letter": "B",
+                "text": "in advance"
+              },
+              {
+                "letter": "C",
+                "text": "go off"
+              },
+              {
+                "letter": "D",
+                "text": "on time"
+              }
+            ],
+            "answer": "D",
+            "explanation": "on time：準時。例句：Please hand in your homework on time.",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krg2sn",
+            "text": "「（鬧鐘、警報器）發出聲響」的英文片語是哪一個？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "go off"
+              },
+              {
+                "letter": "B",
+                "text": "get out of"
+              },
+              {
+                "letter": "C",
+                "text": "wake up"
+              },
+              {
+                "letter": "D",
+                "text": "in advance"
+              }
+            ],
+            "answer": "A",
+            "explanation": "go off：鬧鐘或警報器發出聲響。例句：The fire alarm went off.",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krkn37",
+            "text": "「為了……」的英文片語是哪一個？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "on time"
+              },
+              {
+                "letter": "B",
+                "text": "in order to"
+              },
+              {
+                "letter": "C",
+                "text": "take action"
+              },
+              {
+                "letter": "D",
+                "text": "get out of"
+              }
+            ],
+            "answer": "B",
+            "explanation": "in order to：為了……，後面接原形動詞。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krusok",
+            "text": "「事先、預先」的英文片語是哪一個？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "wake up"
+              },
+              {
+                "letter": "B",
+                "text": "go off"
+              },
+              {
+                "letter": "C",
+                "text": "in advance"
+              },
+              {
+                "letter": "D",
+                "text": "on time"
+              }
+            ],
+            "answer": "C",
+            "explanation": "in advance：事先、預先。例句：She booked a table in advance.",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krtdbb",
+            "text": "「我們應該現在去睡覺，因為我們需要早起看日出。」最符合課本內容的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "We should go to bed now because we need to wake up early in the morning to watch the sunrise."
+              },
+              {
+                "letter": "B",
+                "text": "We should go to bed now because we need to go off early in the morning to watch the sunrise."
+              },
+              {
+                "letter": "C",
+                "text": "We should go to bed now because we need to take action early in the morning to watch the sunrise."
+              },
+              {
+                "letter": "D",
+                "text": "We should go to bed now because we need to get out of town early in the morning to watch the sunrise."
+              }
+            ],
+            "answer": "A",
+            "explanation": "wake up early：早起；watch the sunrise：看日出。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krv8vs",
+            "text": "「消防隊員立刻採取行動，從燃燒的房子中救出人們。」最符合課本內容的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "The firefighters went off right away to save the people from the burning house."
+              },
+              {
+                "letter": "B",
+                "text": "The firefighters took action right away to save the people from the burning house."
+              },
+              {
+                "letter": "C",
+                "text": "The firefighters woke up right away to save the people from the burning house."
+              },
+              {
+                "letter": "D",
+                "text": "The firefighters booked a table right away to save the people from the burning house."
+              }
+            ],
+            "answer": "B",
+            "explanation": "take action right away：立刻採取行動。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krn6dz",
+            "text": "「我的家人下星期要離開城鎮去度假。」最符合課本內容的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "My family is going to wake up town for a vacation next week."
+              },
+              {
+                "letter": "B",
+                "text": "My family is going to go off town for a vacation next week."
+              },
+              {
+                "letter": "C",
+                "text": "My family is going to get out of town for a vacation next week."
+              },
+              {
+                "letter": "D",
+                "text": "My family is going to take action town for a vacation next week."
+              }
+            ],
+            "answer": "C",
+            "explanation": "get out of town：離開城鎮。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krdl3b",
+            "text": "「請準時交作業。」最符合課本內容的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "Please hand in your homework in advance."
+              },
+              {
+                "letter": "B",
+                "text": "Please hand in your homework in order to."
+              },
+              {
+                "letter": "C",
+                "text": "Please hand in your homework go off."
+              },
+              {
+                "letter": "D",
+                "text": "Please hand in your homework on time."
+              }
+            ],
+            "answer": "D",
+            "explanation": "on time：準時。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krtzwy",
+            "text": "「Kelly 認為那家餐廳會很忙，所以她事先訂了一桌。」最符合課本內容的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "Kelly thought the restaurant would be busy, so she booked a table in advance."
+              },
+              {
+                "letter": "B",
+                "text": "Kelly thought the restaurant would be busy, so she woke up a table in advance."
+              },
+              {
+                "letter": "C",
+                "text": "Kelly thought the restaurant would be busy, so she went off a table in advance."
+              },
+              {
+                "letter": "D",
+                "text": "Kelly thought the restaurant would be busy, so she took action a table in advance."
+              }
+            ],
+            "answer": "A",
+            "explanation": "in advance：事先；booked a table：訂了一桌。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krztdf",
+            "text": "「為了早點康復，記得一天服藥三次。」最符合課本內容的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "Remember to take your medicine three times a day on time to get well soon."
+              },
+              {
+                "letter": "B",
+                "text": "Remember to take your medicine three times a day in order to get well soon."
+              },
+              {
+                "letter": "C",
+                "text": "Remember to take your medicine three times a day go off to get well soon."
+              },
+              {
+                "letter": "D",
+                "text": "Remember to take your medicine three times a day get out of to get well soon."
+              }
+            ],
+            "answer": "B",
+            "explanation": "in order to get well soon：為了早點康復。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1krcive",
+            "text": "「有兩款令人驚奇的新型鬧鐘被發明來解決這個問題。」正確的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "Two amazing new alarm clocks invented were to solve the problem."
+              },
+              {
+                "letter": "B",
+                "text": "Two amazing new alarm clocks was invented to solve the problem."
+              },
+              {
+                "letter": "C",
+                "text": "Two amazing new alarm clocks were invented to solve the problem."
+              },
+              {
+                "letter": "D",
+                "text": "Two amazing new alarm clocks were invent to solve the problem."
+              }
+            ],
+            "answer": "C",
+            "explanation": "被動語態：主詞 + be 動詞 + 過去分詞。alarm clocks 是複數，所以用 were；invent 的過去分詞是 invented。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1wy1kre400",
+            "text": "「Ramos 被設計成用不同的方式叫醒你。」正確的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "Ramos was designed to wake you up in a different way."
+              },
+              {
+                "letter": "B",
+                "text": "Ramos were designed to wake you up in a different way."
+              },
+              {
+                "letter": "C",
+                "text": "Ramos was design to wake you up in a different way."
+              },
+              {
+                "letter": "D",
+                "text": "Ramos designed was to wake you up in a different way."
+              }
+            ],
+            "answer": "A",
+            "explanation": "被動語態：Ramos was designed；was + designed（過去分詞）。\n匯入格式說明\n本文件依照網站 Word（.docx）題庫匯入格式編排：每題以數字加句點開頭，選項使用 (A)～(D)，並附有「答案：」及「解析：」。",
+            "difficulty": "簡單"
+          }
+        ],
+        "images": {}
       }
     ],
-    "ts": 1793784335573
+    "ts": 1793784448418
   },
   "comments": []
 }
