@@ -17468,9 +17468,216 @@
           }
         ],
         "images": {}
+      },
+      {
+        "id": "u_mw1xa6oitx60",
+        "name": "英文：第四課單字簡單",
+        "questions": [
+          {
+            "id": "q_mw1xa6oicsic",
+            "text": "「為了看日出，我們需要早起。」正確的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "We need to wake up early in order to watch the sunrise."
+              },
+              {
+                "letter": "B",
+                "text": "We need to go off early in order to watch the sunrise."
+              },
+              {
+                "letter": "C",
+                "text": "We need to take action early in order to watch the sunrise."
+              },
+              {
+                "letter": "D",
+                "text": "We need to get out of early in order to watch the sunrise."
+              }
+            ],
+            "answer": "A",
+            "explanation": "in order to + 原形動詞，表示「為了……」；wake up early 表示「早起」。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xa6oid7c1",
+            "text": "「請事先訂位。」最適合使用哪一句英文？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "Please book a table on time."
+              },
+              {
+                "letter": "B",
+                "text": "Please book a table in advance."
+              },
+              {
+                "letter": "C",
+                "text": "Please book a table go off."
+              },
+              {
+                "letter": "D",
+                "text": "Please book a table wake up."
+              }
+            ],
+            "answer": "B",
+            "explanation": "in advance：事先、預先。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xa6oi8vu3",
+            "text": "「火災警報器響了。」正確的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "The fire alarm took action."
+              },
+              {
+                "letter": "B",
+                "text": "The fire alarm got out of."
+              },
+              {
+                "letter": "C",
+                "text": "The fire alarm went off."
+              },
+              {
+                "letter": "D",
+                "text": "The fire alarm woke up."
+              }
+            ],
+            "answer": "C",
+            "explanation": "go off 可用來表示鬧鐘或警報器「發出聲響」。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xa6oi1cnj",
+            "text": "「消防隊員立刻採取行動。」英文中的「立刻」是哪個片語？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "in advance"
+              },
+              {
+                "letter": "B",
+                "text": "on time"
+              },
+              {
+                "letter": "C",
+                "text": "in order to"
+              },
+              {
+                "letter": "D",
+                "text": "right away"
+              }
+            ],
+            "answer": "D",
+            "explanation": "課本例句使用 right away，意思是「立刻、馬上」。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xa6oifp29",
+            "text": "「我們下星期要離開城鎮。」下列哪個片語可以表達「離開城鎮」？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "get out of town"
+              },
+              {
+                "letter": "B",
+                "text": "wake up town"
+              },
+              {
+                "letter": "C",
+                "text": "go off town"
+              },
+              {
+                "letter": "D",
+                "text": "take action town"
+              }
+            ],
+            "answer": "A",
+            "explanation": "get out of town：離開城鎮。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xa6oiaxe8",
+            "text": "「請準時到校。」下列哪個片語最適合填入句中？\nPlease arrive at school ______.",
+            "options": [
+              {
+                "letter": "A",
+                "text": "in advance"
+              },
+              {
+                "letter": "B",
+                "text": "on time"
+              },
+              {
+                "letter": "C",
+                "text": "in order to"
+              },
+              {
+                "letter": "D",
+                "text": "go off"
+              }
+            ],
+            "answer": "B",
+            "explanation": "on time：準時。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xa6oi3b0x",
+            "text": "「這兩個鬧鐘被發明來解決這個問題。」正確的英文是哪一句？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "These two alarm clocks was invented to solve the problem."
+              },
+              {
+                "letter": "B",
+                "text": "These two alarm clocks invented were to solve the problem."
+              },
+              {
+                "letter": "C",
+                "text": "These two alarm clocks were invented to solve the problem."
+              },
+              {
+                "letter": "D",
+                "text": "These two alarm clocks were invent to solve the problem."
+              }
+            ],
+            "answer": "C",
+            "explanation": "主詞 These two alarm clocks 是複數，因此使用 were + invented。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xa6oix7jx",
+            "text": "「這個裝置被設計成用不同的方式叫醒你。」下列哪一句的被動語態正確？",
+            "options": [
+              {
+                "letter": "A",
+                "text": "The device were designed to wake you up in a different way."
+              },
+              {
+                "letter": "B",
+                "text": "The device designed was to wake you up in a different way."
+              },
+              {
+                "letter": "C",
+                "text": "The device was design to wake you up in a different way."
+              },
+              {
+                "letter": "D",
+                "text": "The device was designed to wake you up in a different way."
+              }
+            ],
+            "answer": "D",
+            "explanation": "單數主詞 The device 使用 was；被動語態為 be + 過去分詞 designed。\n匯入格式說明\n本文件依照網站 Word（.docx）題庫匯入格式編排：每題以數字加句點開頭，選項使用 (A)～(D)，並附有「答案：」及「解析：」。",
+            "difficulty": "簡單"
+          }
+        ],
+        "images": {}
       }
     ],
-    "ts": 1793784788029
+    "ts": 1793785014482
   },
   "comments": []
 }
