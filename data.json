@@ -17668,9 +17668,766 @@
           }
         ],
         "images": {}
+      },
+      {
+        "id": "u_mw1xfyrnln8l",
+        "name": "英文第四課The Early Bird Catches the Clock單字簡",
+        "questions": [
+          {
+            "id": "q_mw1xfyrnxi4j",
+            "text": "醒來；起床",
+            "options": [
+              {
+                "letter": "A",
+                "text": "wake up"
+              },
+              {
+                "letter": "B",
+                "text": "go off"
+              },
+              {
+                "letter": "C",
+                "text": "get out of"
+              },
+              {
+                "letter": "D",
+                "text": "take action"
+              }
+            ],
+            "answer": "A",
+            "explanation": "wake up：醒來、起床。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrngg3e",
+            "text": "採取行動",
+            "options": [
+              {
+                "letter": "A",
+                "text": "in advance"
+              },
+              {
+                "letter": "B",
+                "text": "take action"
+              },
+              {
+                "letter": "C",
+                "text": "on time"
+              },
+              {
+                "letter": "D",
+                "text": "in order to"
+              }
+            ],
+            "answer": "B",
+            "explanation": "take action：採取行動。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnycny",
+            "text": "離開；走出",
+            "options": [
+              {
+                "letter": "A",
+                "text": "go off"
+              },
+              {
+                "letter": "B",
+                "text": "wake up"
+              },
+              {
+                "letter": "C",
+                "text": "get out of"
+              },
+              {
+                "letter": "D",
+                "text": "in advance"
+              }
+            ],
+            "answer": "C",
+            "explanation": "get out of：離開、走出。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn4qms",
+            "text": "準時",
+            "options": [
+              {
+                "letter": "A",
+                "text": "in order to"
+              },
+              {
+                "letter": "B",
+                "text": "in advance"
+              },
+              {
+                "letter": "C",
+                "text": "go off"
+              },
+              {
+                "letter": "D",
+                "text": "on time"
+              }
+            ],
+            "answer": "D",
+            "explanation": "on time：準時。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn3tu2",
+            "text": "（鬧鐘、警報器）發出聲響",
+            "options": [
+              {
+                "letter": "A",
+                "text": "go off"
+              },
+              {
+                "letter": "B",
+                "text": "get out of"
+              },
+              {
+                "letter": "C",
+                "text": "take action"
+              },
+              {
+                "letter": "D",
+                "text": "wake up"
+              }
+            ],
+            "answer": "A",
+            "explanation": "go off：鬧鐘或警報器發出聲響。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn8uqv",
+            "text": "為了……",
+            "options": [
+              {
+                "letter": "A",
+                "text": "on time"
+              },
+              {
+                "letter": "B",
+                "text": "in order to"
+              },
+              {
+                "letter": "C",
+                "text": "in advance"
+              },
+              {
+                "letter": "D",
+                "text": "get out of"
+              }
+            ],
+            "answer": "B",
+            "explanation": "in order to：為了……。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnux97",
+            "text": "事先；預先",
+            "options": [
+              {
+                "letter": "A",
+                "text": "wake up"
+              },
+              {
+                "letter": "B",
+                "text": "take action"
+              },
+              {
+                "letter": "C",
+                "text": "in advance"
+              },
+              {
+                "letter": "D",
+                "text": "go off"
+              }
+            ],
+            "answer": "C",
+            "explanation": "in advance：事先、預先。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnvzk0",
+            "text": "看日出",
+            "options": [
+              {
+                "letter": "A",
+                "text": "watch the sunrise"
+              },
+              {
+                "letter": "B",
+                "text": "save the people"
+              },
+              {
+                "letter": "C",
+                "text": "get well soon"
+              },
+              {
+                "letter": "D",
+                "text": "book a table"
+              }
+            ],
+            "answer": "A",
+            "explanation": "watch the sunrise：看日出。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnngn9",
+            "text": "早上",
+            "options": [
+              {
+                "letter": "A",
+                "text": "right away"
+              },
+              {
+                "letter": "B",
+                "text": "in the morning"
+              },
+              {
+                "letter": "C",
+                "text": "in advance"
+              },
+              {
+                "letter": "D",
+                "text": "on time"
+              }
+            ],
+            "answer": "B",
+            "explanation": "in the morning：在早上。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnq74w",
+            "text": "吃藥；服藥",
+            "options": [
+              {
+                "letter": "A",
+                "text": "take action"
+              },
+              {
+                "letter": "B",
+                "text": "take your medicine"
+              },
+              {
+                "letter": "C",
+                "text": "go off"
+              },
+              {
+                "letter": "D",
+                "text": "wake up"
+              }
+            ],
+            "answer": "B",
+            "explanation": "take your medicine：服藥。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrno5t7",
+            "text": "一天三次",
+            "options": [
+              {
+                "letter": "A",
+                "text": "three times a day"
+              },
+              {
+                "letter": "B",
+                "text": "in a different way"
+              },
+              {
+                "letter": "C",
+                "text": "right away"
+              },
+              {
+                "letter": "D",
+                "text": "next week"
+              }
+            ],
+            "answer": "A",
+            "explanation": "three times a day：一天三次。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn73yq",
+            "text": "早點康復；早日康復",
+            "options": [
+              {
+                "letter": "A",
+                "text": "get out of town"
+              },
+              {
+                "letter": "B",
+                "text": "get well soon"
+              },
+              {
+                "letter": "C",
+                "text": "wake up early"
+              },
+              {
+                "letter": "D",
+                "text": "go off"
+              }
+            ],
+            "answer": "B",
+            "explanation": "get well soon：早日康復。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnrrf5",
+            "text": "消防隊員",
+            "options": [
+              {
+                "letter": "A",
+                "text": "students"
+              },
+              {
+                "letter": "B",
+                "text": "teachers"
+              },
+              {
+                "letter": "C",
+                "text": "firefighters"
+              },
+              {
+                "letter": "D",
+                "text": "people"
+              }
+            ],
+            "answer": "C",
+            "explanation": "firefighters：消防隊員。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnvzjt",
+            "text": "立刻；馬上",
+            "options": [
+              {
+                "letter": "A",
+                "text": "right away"
+              },
+              {
+                "letter": "B",
+                "text": "in advance"
+              },
+              {
+                "letter": "C",
+                "text": "on time"
+              },
+              {
+                "letter": "D",
+                "text": "in order to"
+              }
+            ],
+            "answer": "A",
+            "explanation": "right away：立刻、馬上。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn1zyl",
+            "text": "拯救；救",
+            "options": [
+              {
+                "letter": "A",
+                "text": "save"
+              },
+              {
+                "letter": "B",
+                "text": "book"
+              },
+              {
+                "letter": "C",
+                "text": "invent"
+              },
+              {
+                "letter": "D",
+                "text": "design"
+              }
+            ],
+            "answer": "A",
+            "explanation": "save：拯救、救。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrntycm",
+            "text": "人們",
+            "options": [
+              {
+                "letter": "A",
+                "text": "alarm clocks"
+              },
+              {
+                "letter": "B",
+                "text": "people"
+              },
+              {
+                "letter": "C",
+                "text": "firefighters"
+              },
+              {
+                "letter": "D",
+                "text": "students"
+              }
+            ],
+            "answer": "B",
+            "explanation": "people：人們。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrncdk6",
+            "text": "燃燒中的房子",
+            "options": [
+              {
+                "letter": "A",
+                "text": "the sunrise"
+              },
+              {
+                "letter": "B",
+                "text": "the burning house"
+              },
+              {
+                "letter": "C",
+                "text": "the restaurant"
+              },
+              {
+                "letter": "D",
+                "text": "the school"
+              }
+            ],
+            "answer": "B",
+            "explanation": "the burning house：燃燒中的房子。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrncbye",
+            "text": "我的家人",
+            "options": [
+              {
+                "letter": "A",
+                "text": "my family"
+              },
+              {
+                "letter": "B",
+                "text": "the students"
+              },
+              {
+                "letter": "C",
+                "text": "the firefighters"
+              },
+              {
+                "letter": "D",
+                "text": "the teachers"
+              }
+            ],
+            "answer": "A",
+            "explanation": "my family：我的家人。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn4vzh",
+            "text": "下星期",
+            "options": [
+              {
+                "letter": "A",
+                "text": "last week"
+              },
+              {
+                "letter": "B",
+                "text": "next week"
+              },
+              {
+                "letter": "C",
+                "text": "in advance"
+              },
+              {
+                "letter": "D",
+                "text": "in the morning"
+              }
+            ],
+            "answer": "B",
+            "explanation": "next week：下星期。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnn0gn",
+            "text": "離開城鎮",
+            "options": [
+              {
+                "letter": "A",
+                "text": "get out of town"
+              },
+              {
+                "letter": "B",
+                "text": "wake up early"
+              },
+              {
+                "letter": "C",
+                "text": "take action"
+              },
+              {
+                "letter": "D",
+                "text": "go off"
+              }
+            ],
+            "answer": "A",
+            "explanation": "get out of town：離開城鎮。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrngd4r",
+            "text": "度假",
+            "options": [
+              {
+                "letter": "A",
+                "text": "watch the sunrise"
+              },
+              {
+                "letter": "B",
+                "text": "go on vacation"
+              },
+              {
+                "letter": "C",
+                "text": "take your medicine"
+              },
+              {
+                "letter": "D",
+                "text": "save the people"
+              }
+            ],
+            "answer": "B",
+            "explanation": "go on vacation：去度假。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnmv47",
+            "text": "餐廳",
+            "options": [
+              {
+                "letter": "A",
+                "text": "restaurant"
+              },
+              {
+                "letter": "B",
+                "text": "school"
+              },
+              {
+                "letter": "C",
+                "text": "town"
+              },
+              {
+                "letter": "D",
+                "text": "house"
+              }
+            ],
+            "answer": "A",
+            "explanation": "restaurant：餐廳。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn4jo0",
+            "text": "忙碌的；很忙的",
+            "options": [
+              {
+                "letter": "A",
+                "text": "different"
+              },
+              {
+                "letter": "B",
+                "text": "amazing"
+              },
+              {
+                "letter": "C",
+                "text": "busy"
+              },
+              {
+                "letter": "D",
+                "text": "early"
+              }
+            ],
+            "answer": "C",
+            "explanation": "busy：忙碌的。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnx7jn",
+            "text": "預訂一張桌子；訂位",
+            "options": [
+              {
+                "letter": "A",
+                "text": "take action"
+              },
+              {
+                "letter": "B",
+                "text": "book a table"
+              },
+              {
+                "letter": "C",
+                "text": "go off"
+              },
+              {
+                "letter": "D",
+                "text": "get out of"
+              }
+            ],
+            "answer": "B",
+            "explanation": "book a table：訂位、預訂桌位。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnkb1q",
+            "text": "學生",
+            "options": [
+              {
+                "letter": "A",
+                "text": "teachers"
+              },
+              {
+                "letter": "B",
+                "text": "students"
+              },
+              {
+                "letter": "C",
+                "text": "firefighters"
+              },
+              {
+                "letter": "D",
+                "text": "people"
+              }
+            ],
+            "answer": "B",
+            "explanation": "students：學生。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn9edk",
+            "text": "老師",
+            "options": [
+              {
+                "letter": "A",
+                "text": "teachers"
+              },
+              {
+                "letter": "B",
+                "text": "students"
+              },
+              {
+                "letter": "C",
+                "text": "people"
+              },
+              {
+                "letter": "D",
+                "text": "firefighters"
+              }
+            ],
+            "answer": "A",
+            "explanation": "teachers：老師。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn8nsp",
+            "text": "到外面去；在外面",
+            "options": [
+              {
+                "letter": "A",
+                "text": "in advance"
+              },
+              {
+                "letter": "B",
+                "text": "outside"
+              },
+              {
+                "letter": "C",
+                "text": "on time"
+              },
+              {
+                "letter": "D",
+                "text": "in order to"
+              }
+            ],
+            "answer": "B",
+            "explanation": "outside：在外面、到外面。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnxxg6",
+            "text": "火災警報器",
+            "options": [
+              {
+                "letter": "A",
+                "text": "alarm clock"
+              },
+              {
+                "letter": "B",
+                "text": "fire alarm"
+              },
+              {
+                "letter": "C",
+                "text": "restaurant"
+              },
+              {
+                "letter": "D",
+                "text": "burning house"
+              }
+            ],
+            "answer": "B",
+            "explanation": "fire alarm：火災警報器。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrn80q3",
+            "text": "鬧鐘",
+            "options": [
+              {
+                "letter": "A",
+                "text": "alarm clock"
+              },
+              {
+                "letter": "B",
+                "text": "fire alarm"
+              },
+              {
+                "letter": "C",
+                "text": "sunrise"
+              },
+              {
+                "letter": "D",
+                "text": "medicine"
+              }
+            ],
+            "answer": "A",
+            "explanation": "alarm clock：鬧鐘。",
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1xfyrnxkt2",
+            "text": "令人驚奇的；令人讚嘆的",
+            "options": [
+              {
+                "letter": "A",
+                "text": "busy"
+              },
+              {
+                "letter": "B",
+                "text": "different"
+              },
+              {
+                "letter": "C",
+                "text": "amazing"
+              },
+              {
+                "letter": "D",
+                "text": "early"
+              }
+            ],
+            "answer": "C",
+            "explanation": "amazing：令人驚奇的。\n匯入格式說明\n本文件依照網站 Word（.docx）批次匯入格式編排：每題以數字加句點開頭，選項使用 (A)～(D)，並附有「答案：」及「解析：」。\n本批共 30 題，內容只考照片中的單字與片語，不含文法題。\n單元名稱：英文：第四課單字與片語",
+            "difficulty": "簡單"
+          }
+        ],
+        "images": {}
       }
     ],
-    "ts": 1793785243106
+    "ts": 1793785288004
   },
   "comments": []
 }
