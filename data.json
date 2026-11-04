@@ -17665,16 +17665,9 @@
             "answer": "D",
             "explanation": "單數主詞 The device 使用 was；被動語態為 be + 過去分詞 designed。\n匯入格式說明\n本文件依照網站 Word（.docx）題庫匯入格式編排：每題以數字加句點開頭，選項使用 (A)～(D)，並附有「答案：」及「解析：」。",
             "difficulty": "簡單"
-          }
-        ],
-        "images": {}
-      },
-      {
-        "id": "u_mw1xfyrnln8l",
-        "name": "英文第四課The Early Bird Catches the Clock單字簡",
-        "questions": [
+          },
           {
-            "id": "q_mw1xfyrnxi4j",
+            "id": "q_mw1xhfb4sy21",
             "text": "醒來；起床",
             "options": [
               {
@@ -17699,7 +17692,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrngg3e",
+            "id": "q_mw1xhfb4effn",
             "text": "採取行動",
             "options": [
               {
@@ -17724,7 +17717,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnycny",
+            "id": "q_mw1xhfb4yb4o",
             "text": "離開；走出",
             "options": [
               {
@@ -17749,7 +17742,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn4qms",
+            "id": "q_mw1xhfb41l3x",
             "text": "準時",
             "options": [
               {
@@ -17774,7 +17767,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn3tu2",
+            "id": "q_mw1xhfb4ydo0",
             "text": "（鬧鐘、警報器）發出聲響",
             "options": [
               {
@@ -17799,7 +17792,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn8uqv",
+            "id": "q_mw1xhfb4w9md",
             "text": "為了……",
             "options": [
               {
@@ -17824,7 +17817,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnux97",
+            "id": "q_mw1xhfb4gxa9",
             "text": "事先；預先",
             "options": [
               {
@@ -17849,7 +17842,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnvzk0",
+            "id": "q_mw1xhfb46vb1",
             "text": "看日出",
             "options": [
               {
@@ -17874,7 +17867,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnngn9",
+            "id": "q_mw1xhfb491oq",
             "text": "早上",
             "options": [
               {
@@ -17899,7 +17892,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnq74w",
+            "id": "q_mw1xhfb4tvma",
             "text": "吃藥；服藥",
             "options": [
               {
@@ -17924,7 +17917,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrno5t7",
+            "id": "q_mw1xhfb4p5nz",
             "text": "一天三次",
             "options": [
               {
@@ -17949,7 +17942,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn73yq",
+            "id": "q_mw1xhfb4h9z6",
             "text": "早點康復；早日康復",
             "options": [
               {
@@ -17974,7 +17967,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnrrf5",
+            "id": "q_mw1xhfb4xd5z",
             "text": "消防隊員",
             "options": [
               {
@@ -17999,7 +17992,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnvzjt",
+            "id": "q_mw1xhfb4f2e8",
             "text": "立刻；馬上",
             "options": [
               {
@@ -18024,7 +18017,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn1zyl",
+            "id": "q_mw1xhfb4xca7",
             "text": "拯救；救",
             "options": [
               {
@@ -18049,7 +18042,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrntycm",
+            "id": "q_mw1xhfb4s0fk",
             "text": "人們",
             "options": [
               {
@@ -18074,7 +18067,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrncdk6",
+            "id": "q_mw1xhfb4ru17",
             "text": "燃燒中的房子",
             "options": [
               {
@@ -18099,7 +18092,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrncbye",
+            "id": "q_mw1xhfb48a7y",
             "text": "我的家人",
             "options": [
               {
@@ -18124,7 +18117,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn4vzh",
+            "id": "q_mw1xhfb4nqm4",
             "text": "下星期",
             "options": [
               {
@@ -18149,7 +18142,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnn0gn",
+            "id": "q_mw1xhfb45bqx",
             "text": "離開城鎮",
             "options": [
               {
@@ -18174,7 +18167,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrngd4r",
+            "id": "q_mw1xhfb43h57",
             "text": "度假",
             "options": [
               {
@@ -18199,7 +18192,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnmv47",
+            "id": "q_mw1xhfb43x67",
             "text": "餐廳",
             "options": [
               {
@@ -18224,7 +18217,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn4jo0",
+            "id": "q_mw1xhfb4k613",
             "text": "忙碌的；很忙的",
             "options": [
               {
@@ -18249,7 +18242,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnx7jn",
+            "id": "q_mw1xhfb4kymj",
             "text": "預訂一張桌子；訂位",
             "options": [
               {
@@ -18274,7 +18267,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnkb1q",
+            "id": "q_mw1xhfb44bew",
             "text": "學生",
             "options": [
               {
@@ -18299,7 +18292,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn9edk",
+            "id": "q_mw1xhfb4ftse",
             "text": "老師",
             "options": [
               {
@@ -18324,7 +18317,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn8nsp",
+            "id": "q_mw1xhfb48ia2",
             "text": "到外面去；在外面",
             "options": [
               {
@@ -18349,7 +18342,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnxxg6",
+            "id": "q_mw1xhfb4e9uc",
             "text": "火災警報器",
             "options": [
               {
@@ -18374,7 +18367,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrn80q3",
+            "id": "q_mw1xhfb41gny",
             "text": "鬧鐘",
             "options": [
               {
@@ -18399,7 +18392,7 @@
             "difficulty": "簡單"
           },
           {
-            "id": "q_mw1xfyrnxkt2",
+            "id": "q_mw1xhfb4or8y",
             "text": "令人驚奇的；令人讚嘆的",
             "options": [
               {
@@ -18420,14 +18413,14 @@
               }
             ],
             "answer": "C",
-            "explanation": "amazing：令人驚奇的。\n匯入格式說明\n本文件依照網站 Word（.docx）批次匯入格式編排：每題以數字加句點開頭，選項使用 (A)～(D)，並附有「答案：」及「解析：」。\n本批共 30 題，內容只考照片中的單字與片語，不含文法題。\n單元名稱：英文：第四課單字與片語",
+            "explanation": "amazing：令人驚奇的。",
             "difficulty": "簡單"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793785288004
+    "ts": 1793785353013
   },
   "comments": []
 }
