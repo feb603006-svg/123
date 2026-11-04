@@ -18590,12 +18590,37 @@
             "answer": "D",
             "explanation": "(D)\nsolve",
             "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1zsl3ughl4",
+            "text": "解決辦法",
+            "options": [
+              {
+                "letter": "A",
+                "text": "promise"
+              },
+              {
+                "letter": "B",
+                "text": "solution"
+              },
+              {
+                "letter": "C",
+                "text": "position"
+              },
+              {
+                "letter": "D",
+                "text": "chase"
+              }
+            ],
+            "answer": "B",
+            "explanation": "(B)\nsolution",
+            "difficulty": "簡單"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793789167578
+    "ts": 1793789231327
   },
   "comments": []
 }
