@@ -18439,7 +18439,7 @@
             ],
             "answer": "B",
             "explanation": "(B)\nstraight",
-            "difficulty": "中等"
+            "difficulty": "簡單"
           },
           {
             "id": "q_mw1zht879cni",
@@ -18464,13 +18464,38 @@
             ],
             "answer": "A",
             "explanation": "(A)\nresearch",
-            "difficulty": "中等"
+            "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1zkchxlyjp",
+            "text": "睡過頭",
+            "options": [
+              {
+                "letter": "A",
+                "text": "oversleep"
+              },
+              {
+                "letter": "B",
+                "text": "solve"
+              },
+              {
+                "letter": "C",
+                "text": "straight"
+              },
+              {
+                "letter": "D",
+                "text": "solution"
+              }
+            ],
+            "answer": "A",
+            "explanation": "(A)\noversleep",
+            "difficulty": "簡單"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793788728636
+    "ts": 1793788846925
   },
   "comments": []
 }
