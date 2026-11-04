@@ -18540,12 +18540,37 @@
             "answer": "D",
             "explanation": "(D)\ninvent",
             "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1zpwt60mfw",
+            "text": "發明者",
+            "options": [
+              {
+                "letter": "A",
+                "text": "invent"
+              },
+              {
+                "letter": "B",
+                "text": "inventor"
+              },
+              {
+                "letter": "C",
+                "text": "go of"
+              },
+              {
+                "letter": "D",
+                "text": "research"
+              }
+            ],
+            "answer": "B",
+            "explanation": "(B)\ninventor",
+            "difficulty": "簡單"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793789033385
+    "ts": 1793789106529
   },
   "comments": []
 }
