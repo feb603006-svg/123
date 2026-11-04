@@ -18490,12 +18490,37 @@
             "answer": "A",
             "explanation": "(A)\noversleep",
             "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1zmtqyunpo",
+            "text": "令人驚奇的",
+            "options": [
+              {
+                "letter": "A",
+                "text": "solution"
+              },
+              {
+                "letter": "B",
+                "text": "design"
+              },
+              {
+                "letter": "C",
+                "text": "amazing"
+              },
+              {
+                "letter": "D",
+                "text": "get out of"
+              }
+            ],
+            "answer": "C",
+            "explanation": "(C)\namazing",
+            "difficulty": "簡單"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793788846925
+    "ts": 1793788962591
   },
   "comments": []
 }
