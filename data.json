@@ -18440,12 +18440,37 @@
             "answer": "B",
             "explanation": "(B)\nstraight",
             "difficulty": "中等"
+          },
+          {
+            "id": "q_mw1zht879cni",
+            "text": "研究",
+            "options": [
+              {
+                "letter": "A",
+                "text": "research"
+              },
+              {
+                "letter": "B",
+                "text": "solve"
+              },
+              {
+                "letter": "C",
+                "text": "amazing"
+              },
+              {
+                "letter": "D",
+                "text": "oversleep"
+              }
+            ],
+            "answer": "A",
+            "explanation": "(A)\nresearch",
+            "difficulty": "中等"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793788662756
+    "ts": 1793788728636
   },
   "comments": []
 }
