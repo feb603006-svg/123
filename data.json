@@ -18415,12 +18415,37 @@
             "answer": "C",
             "explanation": "amazing：令人驚奇的。",
             "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1zgee22a52",
+            "text": "直接地",
+            "options": [
+              {
+                "letter": "A",
+                "text": "alarm"
+              },
+              {
+                "letter": "B",
+                "text": "straight"
+              },
+              {
+                "letter": "C",
+                "text": "reserch"
+              },
+              {
+                "letter": "D",
+                "text": "amazing"
+              }
+            ],
+            "answer": "B",
+            "explanation": "(B)\nstraight",
+            "difficulty": "中等"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793785353013
+    "ts": 1793788662756
   },
   "comments": []
 }
