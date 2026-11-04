@@ -18515,12 +18515,37 @@
             "answer": "C",
             "explanation": "(C)\namazing",
             "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1zocdemfas",
+            "text": "發明",
+            "options": [
+              {
+                "letter": "A",
+                "text": "research"
+              },
+              {
+                "letter": "B",
+                "text": "design"
+              },
+              {
+                "letter": "C",
+                "text": "go of"
+              },
+              {
+                "letter": "D",
+                "text": "invent"
+              }
+            ],
+            "answer": "D",
+            "explanation": "(D)\ninvent",
+            "difficulty": "簡單"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793788962591
+    "ts": 1793789033385
   },
   "comments": []
 }
