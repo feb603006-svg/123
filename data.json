@@ -18565,12 +18565,37 @@
             "answer": "B",
             "explanation": "(B)\ninventor",
             "difficulty": "簡單"
+          },
+          {
+            "id": "q_mw1zr7x0ps6n",
+            "text": "解決",
+            "options": [
+              {
+                "letter": "A",
+                "text": "design"
+              },
+              {
+                "letter": "B",
+                "text": "oversleep"
+              },
+              {
+                "letter": "C",
+                "text": "solution"
+              },
+              {
+                "letter": "D",
+                "text": "solve"
+              }
+            ],
+            "answer": "D",
+            "explanation": "(D)\nsolve",
+            "difficulty": "簡單"
           }
         ],
         "images": {}
       }
     ],
-    "ts": 1793789106529
+    "ts": 1793789167578
   },
   "comments": []
 }
